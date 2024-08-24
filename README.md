@@ -26,4 +26,4 @@ This project demonstrates a Progressive Information Capture form where users beg
 
 ## License
 
-This project is open-source and available under the MIT LicenseLICENSE.
+This project is open-source and available under the MIT License.
