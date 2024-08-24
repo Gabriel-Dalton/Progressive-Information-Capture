@@ -1,21 +1,22 @@
 # Progressive Information Capture
 
-This project demonstrates a Progressive Information Capture form where users begin by entering their email address and are then guided to provide additional details like their full name and password in a step-by-step manner. This method ensures a smooth and user-friendly registration process.
+This project demonstrates a Progressive Information Capture form where users begin by entering their email address and are then guided to provide additional details like their full name and password in a step-by-step manner. The email entered initially is pre-filled on the subsequent form to ensure a seamless and user-friendly registration process.
 
 ## Features
 
 - **Step 1: Email Input**
-  - The initial page presents a simple form with just an email input field and a "Get Started" button.
-  
+  - The initial page presents a clean and simple form with an email input field and a "Get Started" button.
+
 - **Step 2: Additional Information**
-  - Upon submitting the email, the user is redirected to a second page where they are asked to provide further information such as their full name and password.
-  
-- **Email Auto-Fill**
-  - The email provided on the first page is automatically filled in on the second page, ensuring continuity and convenience for the user.
+  - After submitting the email, the user is redirected to a second page to provide further details like their full name and password. The email is automatically pre-filled to maintain continuity.
+
+- **Responsive Design**
+  - The form is styled with Tailwind CSS for a modern and responsive user experience.
 
 ## Technologies Used
 
 - HTML5
+- Tailwind CSS
 - JavaScript
 
 ## Usage
