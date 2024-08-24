@@ -2,6 +2,10 @@
 
 This project demonstrates a Progressive Information Capture form where users begin by entering their email address and are then guided to provide additional details like their full name and password in a step-by-step manner. The email entered initially is pre-filled on the subsequent form to ensure a seamless and user-friendly registration process.
 
+*Progressive Information Capture:* A clever marketing technique where users initially see only an email input field. Once they press "Submit" or "Free Trial," the form seamlessly guides them to provide additional details step-by-step. This approach creates a smooth and user-friendly registration process while making it easy for users to get started without feeling overwhelmed. 
+
+Based off of Katteb.com.
+
 ## Features
 
 - **Step 1: Email Input**
