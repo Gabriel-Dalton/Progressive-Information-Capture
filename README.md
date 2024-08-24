@@ -4,7 +4,7 @@ This project demonstrates a Progressive Information Capture form where users beg
 
 *Progressive Information Capture:* A clever marketing technique where users initially see only an email input field. Once they press "Submit" or "Free Trial," the form seamlessly guides them to provide additional details step-by-step. This approach creates a smooth and user-friendly registration process while making it easy for users to get started without feeling overwhelmed. 
 
-Based off of Katteb.com.
+Based off of [Katteb.com](https://katteb.com/en/).
 
 ## Features
 
